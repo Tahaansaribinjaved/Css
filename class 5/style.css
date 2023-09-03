@@ -1,0 +1,32 @@
+/* body{background-color: grey;} */
+.black {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
+    /* float: left; */
+}
+img{
+    poisiton
+    /* position: relative; */
+    /* top: -110px; */
+    /* position: absolute; */
+    /* top: 10px; */
+    /* left: 113px; */
+    /* right: 100px; */
+}
+
+.white {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    /* float: left; */
+
+}
+ul > li{display: inline-block;
+width: 200px;}
+ul{background-color: aqua;
+position: sticky;
+top: 0px;}

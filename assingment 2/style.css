@@ -1,0 +1,45 @@
+#main {
+    border: 5px;
+    border-color: black;
+    border-style: double;
+    padding: center;
+
+
+}
+
+.center {
+    text-align: center;
+}
+
+.taha {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.abc {
+    word-spacing: 35px;
+    text-align: center;
+    /* border: 2px; */
+    /* border-color: black; */
+}
+
+.border {
+    margin: auto 50px auto 50px;
+    ;
+    padding-top: 5pxpx;
+    border-top-width: 5px;
+    border-bottom-width: 3px;
+    border-color: black;
+    border-top-style: groove;
+    border-left-style: none;
+    border-bottom-style: groove;
+}
+
+img {
+    padding-left: 180px;
+}
+
+.wasif {
+    text-align: center;
+    padding: 10px;
+}.name{text-align: center;font-size: large;}

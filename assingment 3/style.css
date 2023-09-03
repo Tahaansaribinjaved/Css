@@ -1,0 +1,34 @@
+#orange{background-color: rgb(255, 140, 0);}
+*{background-color: rgb(45, 255, 255);}
+table,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+/* div{border-radius: 20px;} */
+table {
+    /* border-radius: 20px; */
+    /* background-color: aqua; */
+    margin: 100px auto auto auto;
+    width: 30%;
+    /* border-top-left-radius: 50px; */
+}
+
+.right {
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding: 20px;
+    font-size: 400%;
+}
+
+td {background-color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+
+}
+.white{background-color: whitesmoke;}
+td:hover{transform: scale(1.2);
+transition:step-end;}
